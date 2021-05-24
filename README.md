@@ -1,5 +1,5 @@
 ### Hi there 👋 
-![Youtube Badge](https://img.shields.io/badge/subsribers-3.6K-ff0000?style=for-the-badge&logo=YouTube&link=https://www.youtube.com/channel/UCyT7IoTfqcb5j1PqcMMwsiQ)
+![Youtube Badge](https://img.shields.io/badge/subscribers-3.6K-ff0000?style=for-the-badge&logo=YouTube&link=https://www.youtube.com/channel/UCyT7IoTfqcb5j1PqcMMwsiQ)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamJiii&show_icons=true&theme=cobalt)
 
