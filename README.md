@@ -5,8 +5,9 @@
 
 ### 🌱 I’m currently learning ...
 - Model-Agnostic Meta-Learning
-- Multi-Object Tracking with Human Re-ID
+- Multi-Object Tracking via Human Re-ID
 - 3D Multi-Person Motion Capture (pose estimation)
+- Trajectory Prediction
 
 <!--
 **NamJiii/NamJiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
