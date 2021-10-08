@@ -4,10 +4,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamJiii&show_icons=true&theme=cobalt)
 
 ### 🌱 I’m currently learning ...
+- Video Stabilization
 - Model-Agnostic Meta-Learning
-- Multi-Object Tracking via Human Re-ID
+- Super Resolution
 - 3D Multi-Person Motion Capture (pose estimation)
-- Trajectory Prediction
+- Multi-Object Tracking, Human Re-ID
 
 <!--
 **NamJiii/NamJiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
