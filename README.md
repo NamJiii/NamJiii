@@ -1,12 +1,5 @@
 ### Hi there 👋 
-![Youtube Badge](https://img.shields.io/badge/subscribers-3.3K-ff0000?style=for-the-badge&logo=YouTube&link=https://www.youtube.com/channel/UCyT7IoTfqcb5j1PqcMMwsiQ)
-
-### 🌱 I’m currently learning ...
-- Video Stabilization
-- Model-Agnostic Meta-Learning
-- Super Resolution
-- 3D Multi-Person Motion Capture (pose estimation)
-- Multi-Object Tracking, Human Re-ID
+![Youtube Badge](https://img.shields.io/badge/subscribers-3K-ff0000?style=for-the-badge&logo=YouTube&link=https://www.youtube.com/channel/UCyT7IoTfqcb5j1PqcMMwsiQ)
 
 <!--
 **NamJiii/NamJiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
