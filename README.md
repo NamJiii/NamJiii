@@ -1,7 +1,7 @@
 ### Hi there 👋 
-![Youtube Badge](https://img.shields.io/badge/subscribers-3K-ff0000?style=for-the-badge&logo=YouTube&link=https://www.youtube.com/channel/UCyT7IoTfqcb5j1PqcMMwsiQ)
 
 <!--
+![Youtube Badge](https://img.shields.io/badge/subscribers-3K-ff0000?style=for-the-badge&logo=YouTube&link=https://www.youtube.com/channel/UCyT7IoTfqcb5j1PqcMMwsiQ)
 **NamJiii/NamJiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
